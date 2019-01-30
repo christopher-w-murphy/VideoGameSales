@@ -28,7 +28,7 @@ Global_Sales - Total worldwide sales.
 - Breadth is more important than depth. Answer each question first before going in-depth on any one answer
 - Keep plots as simple as possible. A bar chart is better than a scatter plot, etc.
 
-## Files in the this repo
+## Files in this repo
 - `vgsales.csv`: the data
 - `VideoGameSales.ipynb`: my notebook as it was at the end of the 4 hour time limit
 - `VideoGameSales.pdf`: the presentation I made based off of my origin notebook
