@@ -29,7 +29,7 @@ Global_Sales - Total worldwide sales.
 - Keep plots as simple as possible. A bar chart is better than a scatter plot, etc.
 
 ## Files in the this repo
-- `vgsales.csv` the data
-- `VideoGameSales.ipynb` my notebook as it was at the end of the 4 hour time limit
-- `VideoGameSales.pdf` the presentation I made based off of my origin notebook
-- `VideoGameSales_idealized.ipynb` a notebook made after the fact showing how I would do things in retrospect
+- _vgsales.csv_: the data
+- _VideoGameSales.ipynb_: my notebook as it was at the end of the 4 hour time limit
+- _VideoGameSales.pdf_: the presentation I made based off of my origin notebook
+- _VideoGameSales_idealized.ipynb_: a notebook made after the fact showing how I would do things in retrospect
